@@ -1,0 +1,91 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: beige;
+}
+.change1{
+    width: 100%;
+    display: flex;
+    padding:10px 0px 2px 5px ;
+    margin-bottom: 150px ;
+    
+}
+.change1 h1{
+    font-size: 40px;
+}
+span{
+    color: coral;
+}
+.text{
+    text-align: center;
+    margin-top: 25%;
+   
+    
+}
+#food{
+    background-color:green;
+    color: azure;
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 10px;
+    
+}
+.img{
+
+    height: 10%;
+    padding-bottom: 20%;
+}
+.change2{
+    width: 50%;
+    height: 30%;
+    display: flex;
+   text-align: center;
+}
+.img1{
+    background-color: darkcyan;
+}
+.change2 h1{
+    font-size: 30px;
+    color: aqua;
+}
+.text1{
+    width: 35%;
+
+   padding-left: 45%;
+   align-items: center;
+   transform-origin: 5rem;
+   
+   color: black;
+   font-weight: 600;
+   
+}
+.text1 p{
+    background-color: whitesmoke
+   text-align: center;
+    padding-right: 2rem;
+}
+#new{
+    background-color: chartreuse;
+    padding: 8px;
+    border-radius: 10px;
+    text-decoration: none;
+    margin: 10px solid blue ;
+    
+
+}
+.now{
+    
+    text-align: center;
+}
+.change3{
+    width: 50%;
+    height: 20%;
+    justify-content: space-evenly;
+    display: flex;
+    padding: 10px ;
+    margin-top: 50px;
+    box-shadow: 10px 10px 40px solid greenyellow;
+}
+.text3{
+    padding: 10px ;
+    margin: 10px ;
+}
