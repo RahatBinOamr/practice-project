@@ -7,7 +7,7 @@ body{
     height: 30%;
     display: flex;
     padding:10px 0px 2px 5px ;
-    margin-bottom: 150px ;
+    margin-bottom: 15px ;
     
 }
 .change1 h1{
@@ -36,18 +36,27 @@ span{
     padding-bottom: 20%;
 }
 .change2{
-    width: 50%;
+    width: 100%;
     height: 30%;
     display: flex;
-   text-align: center;
-   background-image: url(r7.jpeg);
+  justify-content: center;
+  background-image: url(r4.png);
+  background-repeat: no-repeat;
+  background-position: right;
 }
+
 .img1{
     background-color: darkcyan;
 }
 .change2 h1{
     font-size: 30px;
     color: aqua;
+}
+.change2 p{
+    justify-content: center;
+    text-align: justify;
+    width: 70%;
+
 }
 .text1{
     width: 35%;
@@ -60,11 +69,7 @@ span{
    font-weight: 600;
    
 }
-.text1 p{
-    background-color: whitesmoke
-   text-align: center;
-    padding-right: 2rem;
-}
+
 #new{
     background-color: chartreuse;
     padding: 8px;
