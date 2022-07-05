@@ -101,13 +101,12 @@ span{
 .change3 p{
     text-align: center;
 }
-.text3{
-    text-align: center;
-
-    padding: 10px ;
-    margin: 10px ;
-    box-shadow: 10px 10px 50px solid white;
+.box{
+    margin: 5px ;
+    padding: 5px;
+    box-shadow: 10px 10px 30px salmon;
 }
+
 .change4{
    width: 33.3%;
    display: flex;
@@ -115,7 +114,7 @@ span{
    text-align: center;
    margin-left: 30%;
    background-color: azure;
-   box-shadow: 10px 10px 50px solid white;
+   box-shadow: 10px 10px 50px white;
     
 }
 .change4 h1{
